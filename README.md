@@ -3,7 +3,7 @@
 Specifications:
 
 
-1)	All text inputted must be lowercase or the required symbols 
+1)	All text inputted must be lowercase for the required symbols 
 2)	Each statement must end in semicolon
 3)	For something to be seen “print” statement must be used 
 4)	No strings
